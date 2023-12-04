@@ -10,6 +10,7 @@ functions = {
     "merchant": {
         "show": show_merchant,
         "user": switch_to_user,
+        "admin": switch_to_admin,
     },
     "admin": {
         "show": show_admin,
