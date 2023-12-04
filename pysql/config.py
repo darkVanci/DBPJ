@@ -11,4 +11,4 @@ conn = Connection(
 # 创建游标对象并执行SQL操作
 cursor = conn.cursor()
 # 选择数据库
-conn.select_db("game")
+conn.select_db("OnlineShoppingComparison")
